@@ -3,7 +3,7 @@
 
 - 📖 Studying **Software Engineering at FIAP**
 
-- 🌱 I’m currently learning **API's, SQL, MongoDB and PostgreSQL**
+- 🌱 I’m currently learning **API's, SQL, Java and Python**
 
 - 🎯 Aiming for a **Software Engineering job**
 
