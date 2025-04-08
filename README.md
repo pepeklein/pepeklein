@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, API's, Java, JavaScript and Python**
 
-- 🎯 Aiming for a **Software Engineering job**
+- 🎯 Aiming for a **Software Engineering** job
 
 - 📫 Reach me in **pedrofernandesklein@gmail.com**
 
