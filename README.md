@@ -3,7 +3,7 @@
 
 🫀 Passionate about solving problems through technology, I currently work as a Business Systems Analyst helping companies optimize their processes and systems.
 
-💻 I’m now shifting gears towards Software Engineering, where I can combine my analytical mindset with hands-on coding. I'm deepening my knowledge in JavaScript, Python, Node.js, React, Angular, and cloud platforms like Azure and AWS, with a strong focus on back-end and API development.
+💻 I’m now shifting gears towards Software Engineering, where I can combine my analytical mindset with hands-on coding. I'm deepening my knowledge in JavaScript, Python, Node.js, React, Angular and cloud platforms like Azure and AWS, with a strong focus on back-end and API development.
 
 🧠 I’m a curious learner and always looking for better ways to build reliable and scalable solutions. My goal is to create meaningful applications that make a difference.
 
